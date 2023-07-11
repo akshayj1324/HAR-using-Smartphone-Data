@@ -28,7 +28,7 @@ The purpose of this project is to classify Human Activities based on data collec
   * Out of which PCA performed significantly better than Factor Analysis. As a result, we decided to proceed with PCA.
   * Using PCA we were able to reduce 571 features into 9 components which explained 79.6458% of variation of data
 * **Modeling:** For the classification task we chose two traditional and two ensemble machine learning techniques namely Multinomial Logistic Regression, Support Vector Machine(SVM), Random Forest Classifier and XGBoost Classifier.
-* **Outcome:** Results from the 4 models average around 86% accuracy suggesting that models are good enough for classification purposes with accuracies varying 1% above or below.
+* **Outcome:** Results from the 4 models average around 86% and variance of 1% accuracy suggesting that models are good enough for classification purposes with no clear winner.
 
 ## Needs of this project
 - data exploration/descriptive statistics
