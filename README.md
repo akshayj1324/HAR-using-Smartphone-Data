@@ -48,5 +48,4 @@ The purpose of this project is to classify Human Activities based on data collec
 * [PCA_Graph](/PCA/PC_Graph.ipynb) This notebook contains code to generate the PC graph (accuracy of selected models vs no. of principle components) which can be used to choose the optimal no. of principle components for the classification task.
 
 ## Contact
-* [LinkedIn](https://www.linkedin.com/in/akshay2718/)
-* Feel free to contact me with any questions!
+Feel free to contact me with any questions via [LinkedIn](https://www.linkedin.com/in/akshay2718/)
