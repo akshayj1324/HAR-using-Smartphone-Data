@@ -3,7 +3,7 @@ This project is a part of the CAPSTONE course during my Master's at Penn State U
 
 #### -- Project Status: [Completed]
 
-## Project Intro/Objective
+## Project Objective
 The purpose of this project is to classify Human Activities based on data collected from accelerometer and gyroscope sensors of a smartphone. The focus of this project will be on finding optimum number of features for classification task followed by comparison of traditional ML techniques.
 
 ### Partner
